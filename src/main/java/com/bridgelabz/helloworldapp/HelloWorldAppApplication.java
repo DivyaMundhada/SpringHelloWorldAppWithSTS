@@ -1,5 +1,5 @@
 /**
- * Creating a HelloWorld Application using STS.
+ * UC-1 Creating a HelloWorld Application to display a message using STS.
  * 
  * @author DIVYA MUNDHADA
  * @since 08.08.2021
@@ -14,6 +14,7 @@ public class HelloWorldAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HelloWorldAppApplication.class, args);
+		System.out.println("Hello From Bridgelabz.");
 	}
 
 }
